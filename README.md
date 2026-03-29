@@ -1,0 +1,2 @@
+# sajjad21
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.20;  contract C21 {     uint public x = 21; }
